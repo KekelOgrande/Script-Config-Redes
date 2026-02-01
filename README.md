@@ -26,4 +26,66 @@ Python 3.x
 Automação de redes
 
 Conceitos de Cisco IOS
-```bash
+
+▶️ Como usar
+
+Clone o repositório:
+
+git clone https://github.com/seuusuario/seurepositorio.git
+
+
+Entre na pasta:
+
+cd seurepositorio
+
+
+Execute o script:
+
+python script.py
+
+
+Preencha os parâmetros solicitados
+
+Copie a saída gerada e aplique no equipamento Cisco
+
+📷 Exemplo de saída
+ip dhcp pool VLAN10
+ network 192.168.10.0 255.255.255.0
+ default-router 192.168.10.1
+ dns-server 8.8.8.8
+
+vlan 10
+ name USERS
+
+🎯 Objetivo do projeto
+
+Este projeto foi criado para praticar:
+
+Automação de redes
+
+Padronização de configuração
+
+Eficiência operacional
+
+Scripts aplicáveis em produção
+
+🔮 Próximas melhorias
+
+Interface gráfica ou web
+
+Validação de entrada de dados
+
+Suporte a múltiplas VLANs em lote
+
+Exportação para arquivo
+
+Integração com ferramentas de automação
+
+👨‍💻 Autor
+
+Desenvolvido por [seu nome aqui]
+Foco em automação e engenharia de redes.
+
+📄 Licença
+
+Livre para uso educacional e melhoria.
