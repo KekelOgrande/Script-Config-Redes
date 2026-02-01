@@ -31,27 +31,23 @@ Projeto desenvolvido 100% sem uso de inteligência artificial — focado em lóg
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/KekelOgrande/Script-Config-Redes.git
 ```
 
 2. Entre na pasta:
 
 ```bash
-cd seurepositorio
+cd script
 ```
 
 3. Execute o script:
 
 ```bash
-python script.py
+python main.py
 ```
 
 4. Preencha os parâmetros solicitados  
-5. Copie a saída gerada e aplique no equipamento Cisco
-
----
-
-## 📷 Exemplo de saída
+5. Copie a saída gerada no txt e aplique no equipamento Cisco
 
 ---
 
