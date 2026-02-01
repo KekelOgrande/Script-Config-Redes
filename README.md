@@ -9,7 +9,7 @@ Projeto desenvolvido 100% sem uso de inteligência artificial — focado em lóg
 
 ## 📌 Funcionalidades
 
-- Geração automática de configuração DHCP
+- Geração automática de configuração DHCP e SUB-INTERFACES
 - Criação de VLANs padronizadas
 - Saída formatada para CLI Cisco
 - Redução de erro humano
