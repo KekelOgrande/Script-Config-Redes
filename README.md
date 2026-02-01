@@ -1,23 +1,29 @@
-# Gerador de Gráficos em Python 📊🥧
+🚀 Cisco DHCP & VLAN Config Generator
 
-Este é um programa simples feito em Python que permite ao usuário criar gráficos personalizados com base nas informações inseridas. Você pode escolher entre dois tipos de gráfico:
+Script em Python para geração automática de configurações de DHCP e VLAN para roteadores e switches Cisco.
+Gera comandos prontos para copiar e colar em produção, reduzindo erro humano e acelerando deploy de rede.
 
-- **Gráfico de Barras**
-- **Gráfico de Pizza**
+Projeto desenvolvido 100% sem uso de inteligência artificial — focado em lógica, estudo e prática em automação de redes.
 
-## ✨ Funcionalidades
+📌 Funcionalidades
 
-- Entrada de dados personalizada pelo usuário
-- Escolha do tipo de gráfico (barras ou pizza)
-- Visualização dos dados em formato gráfico usando o `matplotlib`
+Geração automática de configuração DHCP
 
-## 🛠 Tecnologias Utilizadas
+Criação de VLANs padronizadas
 
-- Python 3
-- [matplotlib](https://matplotlib.org/) – Biblioteca para criação de gráficos
+Saída formatada para CLI Cisco
 
-## 🚀 Como Usar
+Redução de erro humano
 
-1. Clone o repositório:
+Script pronto para ambiente real
 
+Estrutura simples e extensível
+
+🛠 Tecnologias
+
+Python 3.x
+
+Automação de redes
+
+Conceitos de Cisco IOS
 ```bash
