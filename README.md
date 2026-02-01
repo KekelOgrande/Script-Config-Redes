@@ -53,16 +53,6 @@ python script.py
 
 ## 📷 Exemplo de saída
 
-```bash
-ip dhcp pool VLAN10
- network 192.168.10.0 255.255.255.0
- default-router 192.168.10.1
- dns-server 8.8.8.8
-
-vlan 10
- name USERS
-```
-
 ---
 
 ## 🎯 Objetivo do projeto
@@ -76,19 +66,9 @@ Este projeto foi criado para praticar:
 
 ---
 
-## 🔮 Próximas melhorias
-
-- Interface gráfica ou web
-- Validação de entrada de dados
-- Suporte a múltiplas VLANs em lote
-- Exportação para arquivo
-- Integração com ferramentas de automação
-
----
-
 ## 👨‍💻 Autor
 
-Desenvolvido por **[seu nome aqui]**  
+Desenvolvido por **Kelvyn Siqueira Dos Santos**  
 Foco em automação e engenharia de redes.
 
 ---
